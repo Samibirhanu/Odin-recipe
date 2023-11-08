@@ -11,3 +11,8 @@ ul li a {
     text-decoration: none;
     color: #8080ff;
 }
+.lasagna-image {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
