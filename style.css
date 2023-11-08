@@ -14,5 +14,7 @@ ul li a {
 .lasagna-image {
     height: 400px;
     width: 400px;
+}
+.container {
     text-align: center;
 }
