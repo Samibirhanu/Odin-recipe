@@ -5,7 +5,9 @@ h1 {
     color: #1a1aff;
     text-align: center;
 }
-
+ul{
+    list-style-type:none;
+}
 ul li a {
     font-size: 20px;
     text-decoration: none;
