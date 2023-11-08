@@ -1,14 +1,7 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
-body,
-.bg-image{ 
-    background-image: url("image/bagroundimage.webp");
-    background-size: cover;
-    
-    
-
-} 
 h1 {
     color: #1a1aff;
     text-align: center;
